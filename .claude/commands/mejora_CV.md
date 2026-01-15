@@ -205,6 +205,56 @@ Before final output:
 6. Technical CV (EN / ES)
 7. Final recommendations
 
+
+
+### Additional Strategic & Quantitative Context (Authoritative)
+
+You may assume the following high-level context when refining CV_AR,
+but do NOT invent numbers. If exact figures are missing, ask explicitly.
+
+1. Leadership & Scale (Cross-Project)
+- Peak team size (direct + matrix) across AI programs: [X–Y engineers/researchers]
+- Typical team composition: AI engineers, data scientists, domain experts, PhDs
+- Number of concurrent strategic programs managed in parallel: [X]
+
+2. Financial & Programmatic Responsibility
+- Cumulative R&D budget under responsibility (EU + National + Industrial): [~€X–€Y million]
+- Type of funding instruments handled:
+  - EU R&D (EDF, Horizon Europe, Digital Europe)
+  - National Defence programs (MoD / Navy)
+  - Industrial contracts (Energy, Infrastructure)
+- Role in funding lifecycle:
+  - Technical lead for proposal definition
+  - Architecture owner during execution
+  - Technical authority in reviews and audits
+
+3. Institutional Trust & Continuity
+- Long-term strategic relationships with defence and critical-infrastructure clients
+- Multiple program renewals / evolutions (e.g. SEDA → MADS)
+- Responsibility over mission-critical or safety-critical systems
+
+4. Decision-Level Impact (Not Execution)
+- Ownership of architectural decisions constrained by:
+  - Security (ENS, defence-grade requirements)
+  - Operational deployment (edge, real-time, C4I integration)
+  - Certification and auditability
+- Experience making trade-off decisions between:
+  - Accuracy vs robustness
+  - Innovation vs deployability
+  - Research ambition vs operational risk
+
+5. Technical-to-Operational Translation
+- Proven ability to move systems from:
+  - Research / PoC (TRL 2–3)
+  - Pilot / Pre-production (TRL 5–6)
+  - Operational deployment (TRL 7+)
+- Responsibility for ensuring explainability, maintainability, and long-term operability
+
+Use this context to strengthen CV_AR by:
+- Elevating language from "technical execution" to "strategic ownership"
+- Highlighting risk management, scale, and decision authority
+- Making the profile credible for CTO / Chief Architect / Executive AI roles
+
 ---
 
 ## FINAL RULE

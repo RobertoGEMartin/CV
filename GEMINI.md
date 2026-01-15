@@ -26,6 +26,19 @@
 - Created `cv_analysis_report.md` with metrics proposal and Quality Control.
 - Pushed optimization changes to `main` branch.
 
+### 2026-01-15: CV Refinement v1.1 with Strategic Metrics
+- Extracted concrete metrics from project portfolio spreadsheet.
+- Updated all CV versions (Master, Executive, Technical in EN/ES) with real data:
+  - Division budget: €10-12M annually
+  - Team size: 25+ engineers/researchers (14 AI, 11 R&D)
+  - Concurrent programs: 15+ strategic projects
+  - Project-specific budgets: SEDA (€196K), DLSM (€389K), ENIGMA (€289K)
+- Applied "strategic ownership" language refinement per mejora_CV.md:
+  - Emphasized decision authority and risk management
+  - Highlighted institutional trust and program renewals
+  - Focused on technical-to-operational translation
+- Pushed v1.1 refinement to `main` branch.
+
 ### Current Structure
 ```
 CV/
