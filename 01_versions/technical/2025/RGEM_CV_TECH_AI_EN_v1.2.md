@@ -21,8 +21,8 @@
 ### Defence & National Security
 - **IMINT Scaling & Data Fusion (SEDA / MADS)**:
   - **Role**: Chief Architect.
-  - **Tech Stack**: Computer Vision (YOLO/Transformer hybrids), Satellite Data Fusion (SAR/Optical), Edge Inference.
-  - **Engineering Challenge**: Real-time detection of non-cooperative vessels in high-clutter sea states.
+  - **Tech Stack**: Computer Vision (YOLO/Transformer hybrids), Multi-source Satellite Data Fusion (Multispectral, IR, SAR, AIS), Edge Inference.
+  - **Engineering Challenge**: Real-time detection of non-cooperative vessels in complex maritime scenarios.
   - **Outcome**: Deployed system processing daily satellite feeds for the Spanish MoD.
 
 - **Generative AI for Wargaming (BELLONA)**:

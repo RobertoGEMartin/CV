@@ -66,6 +66,10 @@
 - **Generated v1.2 Versions**:
   - `RGEM_CV_EXEC_AI_EN/ES_v1.2.md`: Focus on Risk Management & TRL transition.
   - `RGEM_CV_TECH_AI_EN/ES_v1.2.md`: Focus on Architecture, PiNNs (DONES) & Generative AI.
+- **Linguistic & Technical Refinement (v1.2.1)**:
+  - Updated sensor fusion list: "Multiespectral, IR, SAR, AIS".
+  - Polished Spanish phrasing for "adversarial" and "arquitecturó".
+  - Improved description of maritime and polar domain monitoring.
 - Synced all changes to GitHub.
 
 ### Current Structure

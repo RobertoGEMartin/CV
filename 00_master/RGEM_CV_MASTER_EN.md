@@ -26,8 +26,8 @@ Strategic AI Director and Industrial Engineer with 10+ years of leadership in hi
 #### **Strategic Programmes: Defence & National Security**
 
 - **IMINT Scaling & Data Fusion (SEDA / MADS - Spanish MoD)**:
-  - **Architecture Ownership**: Directed the design and scaling of automated vessel and critical infrastructure detection systems using multi-source satellite data fusion (Optical/SAR).
-  - **Strategic Impact**: Transformed national surveillance capabilities, evolving the system from pilot (TRL 4) to operational deployment (TRL 7+), enabling autonomous threat detection over vast maritime and polar domains.
+  - **Architecture Ownership**: Directed the design and scaling of automated vessel and critical infrastructure detection systems using multi-source satellite data fusion (Multispectral, IR, SAR, AIS).
+  - **Strategic Impact**: Transformed national surveillance capabilities, evolving the system from pilot (TRL 4) to operational deployment (TRL 7+), enabling autonomous threat detection across extensive maritime domains and polar environments.
   - **Decision Authority**: Made critical trade-offs between model accuracy and robustness under adversarial conditions, ensuring explainability for defence analysts and compliance with ENS security standards.
   - **Institutional Trust**: Multi-year program with successive extensions, cementing long-term strategic partnership.
 

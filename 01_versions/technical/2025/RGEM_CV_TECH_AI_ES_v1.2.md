@@ -21,8 +21,8 @@
 ### Defensa y Seguridad Nacional
 - **Escalado de IMINT y Fusión de Datos (SEDA / MADS)**:
   - **Rol**: Arquitecto Jefe.
-  - **Tech Stack**: Visión Artificial (Híbridos YOLO/Transformer), Fusión de Datos Satelitales (SAR/Óptico), Inferencia en Edge.
-  - **Desafío de Ingeniería**: Detección en tiempo real de buques no cooperativos en estados de mar de alto clutter.
+  - **Tech Stack**: Visión Artificial (Híbridos YOLO/Transformer), Fusión de Datos Satelitales (Multiespectral, IR, SAR, AIS), Inferencia en Edge.
+  - **Desafío de Ingeniería**: Detección en tiempo real de buques no cooperativos en estados de mar complejos.
   - **Resultado**: Sistema desplegado procesando feeds satelitales diarios para el Ministerio de Defensa.
 
 - **IA Generativa para Wargaming (BELLONA)**:

@@ -20,7 +20,7 @@ Strategic AI Director and Industrial Engineer with 10+ years of leadership in hi
 
 ### Defence & National Security
 - **IMINT Scaling & Data Fusion (SEDA / MADS - Spanish MoD)**:
-  - **Strategic Impact**: transformed national surveillance capabilities, evolving the system from pilot (TRL 4) to operational deployment (TRL 7+).
+  - **Strategic Impact**: transformed national surveillance capabilities, evolving the system from pilot (TRL 4) to operational deployment (TRL 7+), enabling autonomous threat detection across extensive maritime domains and polar environments.
   - **Decision Authority**: Made critical trade-offs between model accuracy and robustness under adversarial conditions, ensuring explainability.
   - **Institutional Trust**: Multi-year program with successive extensions, cementing long-term strategic partnership.
 

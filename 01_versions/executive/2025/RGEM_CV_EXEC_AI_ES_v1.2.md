@@ -21,7 +21,7 @@ Director de IA e Ingeniero Industrial con más de 10 años de liderazgo en inici
 ### Defensa y Seguridad Nacional
 - **Escalado de IMINT y Fusión de Datos (SEDA / MADS - Ministerio de Defensa)**:
   - **Impacto Estratégico**: Transformó las capacidades de vigilancia nacional, evolucionando el sistema desde piloto (TRL 4) hasta despliegue operativo (TRL 7+).
-  - **Autoridad de Decisión**: Realizó trade-offs críticos entre precisión del modelo y robustez bajo condiciones adversariales.
+  - **Autoridad de Decisión**: Realizó trade-offs críticos entre precisión del modelo y robustez frente a ataques adversarios.
   - **Confianza Institucional**: Programa multi-anual con sucesivas extensiones, consolidando una alianza estratégica a largo plazo.
 
 - **IA Generativa para Wargaming y C2 (BELLONA - Fuerzas Armadas)**:

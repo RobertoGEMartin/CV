@@ -10,7 +10,7 @@ Director de IA e Ingeniero Industrial con más de 10 años de liderazgo en inici
 
 ## Áreas de Experiencia Estratégica
 - **Liderazgo Ejecutivo**: Definición de **Estrategia de Hoja de Ruta I+D**, aseguramiento de soberanía técnica y gestión de stakeholders multi-institucionales (Ministerio de Defensa, Armada, reguladores energéticos).
-- **Arquitectura Deep Tech**: Autoridad de diseño para sistemas IMINT, marcos de mantenimiento predictivo (PdM) y modelado subrogado en entornos de misión crítica.
+- **Arquitectura Deep Tech**: Autoridad de diseño para sistemas IMINT (Imagery Intelligence), marcos de mantenimiento predictivo (PdM) y modelado subrogado en entornos de misión crítica.
 - **IA Científica**: Pionero en GANs y Redes Neuronales Informadas por la Física (PiNNs) para el descubrimiento de materiales y la estabilización de redes.
 - **Defensa y Seguridad**: Experiencia probada en cumplimiento de normativas OTAN/STANAG, marcos de seguridad ENS y detección automática de amenazas vía satélite.
 
@@ -26,9 +26,9 @@ Director de IA e Ingeniero Industrial con más de 10 años de liderazgo en inici
 #### **Programas Estratégicos: Defensa y Seguridad Nacional**
 
 - **Escalado de IMINT y Fusión de Datos (SEDA / MADS - Ministerio de Defensa)**:
-  - **Responsabilidad Arquitectónica**: Dirigió el diseño y escalado de sistemas de detección automática de buques e infraestructuras críticas utilizando fusión de datos satelitales multi-fuente (Óptico/SAR).
-  - **Impacto Estratégico**: Transformó las capacidades de vigilancia nacional, evolucionando el sistema desde piloto (TRL 4) hasta despliegue operativo (TRL 7+), permitiendo detección autónoma de amenazas en vastos dominios marítimos y polares.
-  - **Autoridad de Decisión**: Realizó trade-offs críticos entre precisión del modelo y robustez bajo condiciones adversariales, asegurando explicabilidad para analistas de defensa y cumplimiento con estándares de seguridad ENS.
+  - **Responsabilidad Arquitectónica**: Dirigió el diseño y escalado de sistemas de detección automática de buques e infraestructuras críticas utilizando fusión de datos satelitales multi-fuente (Multiespectral, IR, SAR, AIS).
+  - **Impacto Estratégico**: Transformó las capacidades de vigilancia nacional, evolucionando el sistema desde piloto (TRL 4) hasta despliegue operativo (TRL 7+), permitiendo la monitorización autónoma de amenazas en dominios marítimos extensos y entornos polares.
+  - **Autoridad de Decisión**: Realizó trade-offs críticos entre precisión del modelo y robustez frente a ataques adversarios, asegurando explicabilidad para analistas de defensa y cumplimiento con estándares de seguridad ENS.
   - **Confianza Institucional**: Programa multi-anual con sucesivas extensiones, consolidando una alianza estratégica a largo plazo.
 
 - **IA Generativa para Wargaming y C2 (BELLONA - Fuerzas Armadas)**:
@@ -37,7 +37,7 @@ Director de IA e Ingeniero Industrial con más de 10 años de liderazgo en inici
   - **Estado**: Avanzando desde validación de investigación hacia piloto táctico (TRL 4-6).
 
 - **Mantenimiento Predictivo y Disponibilidad de Flota (MAPRE - Armada Española)**:
-  - **Responsabilidad Arquitectónica**: Arquitecturó el marco de mantenimiento predictivo (PdM) para la flota de la Armada Española, integrando datos de sensores IoT, Gemelos Digitales y pronóstico de fallos basado en IA.
+  - **Responsabilidad Arquitectónica**: Diseñó y lideró la arquitectura del marco de mantenimiento predictivo (PdM) para la flota de la Armada Española, integrando datos de sensores IoT, Gemelos Digitales y pronóstico de fallos basado en IA.
   - **Impacto Estratégico**: Maximizó la disponibilidad operativa de los buques y optimizó la logística de repuestos de alto valor. Cambió la postura de mantenimiento de reactiva a predictiva, impactando directamente en las tasas de disponibilidad de la flota.
   - **Traducción Técnico-Operacional**: Avanzó el sistema desde PoC de investigación (TRL 3) hasta piloto de pre-producción (TRL 6), asegurando operabilidad a largo plazo en entornos marítimos desconectados (edge).
   - **Liderazgo de Equipo**: Coordinó **equipos transversales** de ingenieros de IA, expertos en dominio naval y especialistas en IoT.
@@ -96,7 +96,7 @@ Director de IA e Ingeniero Industrial con más de 10 años de liderazgo en inici
 ## Publicaciones y Producción Científica
 
 ### Investigación Core: IA Aplicada en Defensa, Energía y Sistemas Complejos
-*Contribuciones seleccionadas al ecosistema DESEI+D (I+D en Defensa y Seguridad) y programas estratégicos. Coautor en todas las entradas.*
+*Contribuciones seleccionadas al ecosistema DESEI+D (I+D en Defensa y Seguridad) y programas estratégicos.*
 
 * **Implementación de un sistema basado en Deep Learning para la detección de *dark vessels* mediante predicción de ruta** (Díez et al., 2023). Contexto: **SEDA / Ministerio de Defensa**.
 * **Implementación de un modelo de Deep Learning para la detección de abarloamientos en imágenes satelitales** (Naranjo et al., 2023). Contexto: **SEDA / Ministerio de Defensa**.
