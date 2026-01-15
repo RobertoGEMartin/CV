@@ -52,6 +52,13 @@
   - Selected "Top 5" publications relevant to Applied AI & Defence as per strategic guidelines.
 - Pushed changes to `main` branch.
 
+### 2026-01-15: Profile Data Consolidation
+- Created authoritative structured data files in `Profile/` to serve as single source of truth:
+  - `Profile/proyectos.md`: Strategic project table with TRLs, CV relevance, and domains (Defensa, Energía, etc.).
+  - `Profile/publicaciones.md`: Prioritized list of publications with "CV Importance" ratings (Star rating system).
+  - `Profile/Estudios.md`: Ranked education and certifications with guidance for Executive vs Technical usage.
+- Updated `CLAUDE.md` to mandate usage of these files for future CV updates.
+
 ### Current Structure
 ```
 CV/
