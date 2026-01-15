@@ -4,12 +4,12 @@
 📍 Madrid, España | ✉️ robertogemartin@hi-iberia.es | 🔗 [LinkedIn](https://www.linkedin.com/in/robertogomezespinosamartin/)
 
 ## Perfil Ejecutivo
-Director de IA e Ingeniero Industrial con más de 10 años de liderazgo en iniciativas de I+D+i de alto impacto para **Defensa, Energía y Materiales Avanzados**. Especializado en orquestar la transición desde la investigación hasta el despliegue operativo (**TRL 3 a TRL 7-9**). Experto en el uso de Deep Learning, Gemelos Digitales y Computación Científica (PiNNs/NOs) para resolver desafíos de misión crítica. Historial probado de entrega de soberanía técnica para el **Ministerio de Defensa, Armada Española y Red Eléctrica**, gestionando un portafolio total de división de **10-12M€** anuales y liderando equipos multidisciplinares de **más de 25 ingenieros einvestigadores** en **más de 15 programas estratégicos concurrentes**.
+Director de IA e Ingeniero Industrial con más de 10 años de liderazgo en iniciativas de I+D+i de alto impacto para **Defensa, Energía y Materiales Avanzados**. Especializado en orquestar la transición desde la investigación hasta el despliegue operativo (**TRL 3 a TRL 7-9**). Experto en el uso de Deep Learning, Gemelos Digitales y Computación Científica (PiNNs/NOs) para resolver desafíos de misión crítica. Historial probado de entrega de soberanía técnica para el **Ministerio de Defensa, Armada Española y Red Eléctrica**, liderando equipos multidisciplinares de **más de 25 ingenieros e investigadores** en **más de 15 programas estratégicos concurrentes**.
 
 ---
 
 ## Áreas de Experiencia Estratégica
-- **Liderazgo Ejecutivo**: Gestión de cuenta de resultados (P&L), estrategia de hoja de ruta de I+D y gestión de stakeholders multi-institucionales (Ministerio de Defensa, Armada, reguladores energéticos).
+- **Liderazgo Ejecutivo**: Definición de **Estrategia de Hoja de Ruta I+D**, aseguramiento de soberanía técnica y gestión de stakeholders multi-institucionales (Ministerio de Defensa, Armada, reguladores energéticos).
 - **Arquitectura Deep Tech**: Autoridad de diseño para sistemas IMINT, marcos de mantenimiento predictivo (PdM) y modelado subrogado en entornos de misión crítica.
 - **IA Científica**: Pionero en GANs y Redes Neuronales Informadas por la Física (PiNNs) para el descubrimiento de materiales y la estabilización de redes.
 - **Defensa y Seguridad**: Experiencia probada en cumplimiento de normativas OTAN/STANAG, marcos de seguridad ENS y detección automática de amenazas vía satélite.
@@ -29,7 +29,12 @@ Director de IA e Ingeniero Industrial con más de 10 años de liderazgo en inici
   - **Responsabilidad Arquitectónica**: Dirigió el diseño y escalado de sistemas de detección automática de buques e infraestructuras críticas utilizando fusión de datos satelitales multi-fuente (Óptico/SAR).
   - **Impacto Estratégico**: Transformó las capacidades de vigilancia nacional, evolucionando el sistema desde piloto (TRL 4) hasta despliegue operativo (TRL 7+), permitiendo detección autónoma de amenazas en vastos dominios marítimos y polares.
   - **Autoridad de Decisión**: Realizó trade-offs críticos entre precisión del modelo y robustez bajo condiciones adversariales, asegurando explicabilidad para analistas de defensa y cumplimiento con estándares de seguridad ENS.
-  - **Presupuesto y Escala**: **196K€** (22% del portafolio), programa multi-anual con sucesivas extensiones indicando confianza institucional.
+  - **Confianza Institucional**: Programa multi-anual con sucesivas extensiones, consolidando una alianza estratégica a largo plazo.
+
+- **IA Generativa para Wargaming y C2 (BELLONA - Fuerzas Armadas)**:
+  - **Estrategia de Innovación**: Liderando la definición de sistemas de apoyo a la decisión basados en Grandes Modelos de Lenguaje (LLMs) y agentes autónomos para la generación de Cursos de Acción (COA).
+  - **Valor Operativo**: Potenciando capacidades de Mando y Control (C2) mediante la generación automatizada de escenarios y wargaming adversarial (LVC), reduciendo la carga cognitiva en entornos de decisión de alto estrés.
+  - **Estado**: Avanzando desde validación de investigación hacia piloto táctico (TRL 4-6).
 
 - **Mantenimiento Predictivo y Disponibilidad de Flota (MAPRE - Armada Española)**:
   - **Responsabilidad Arquitectónica**: Arquitecturó el marco de mantenimiento predictivo (PdM) para la flota de la Armada Española, integrando datos de sensores IoT, Gemelos Digitales y pronóstico de fallos basado en IA.
@@ -43,7 +48,7 @@ Director de IA e Ingeniero Industrial con más de 10 años de liderazgo en inici
   - **Liderazgo en Innovación**: Lideró el primer uso de Aprendizaje por Refuerzo Profundo (DRL) para el control autónomo y estabilización de la red eléctrica nacional, un sistema crítico para la seguridad con tolerancia cero a fallos.
   - **Impacto Estratégico**: Estableció un referente de viabilidad de agentes autónomos en infraestructuras críticas de alta responsabilidad. Demostró la seguridad y eficiencia de la estabilización de frecuencia de red y optimización de despacho económico basada en IA.
   - **Autoridad de Decisión**: Equilibró la ambición de innovación con el riesgo operativo, implementando rigurosos protocolos de prueba y validación para cumplir con requisitos regulatorios y de seguridad.
-  - **Presupuesto**: **289K€** (33% del portafolio), destacando prioridad estratégica.
+  - **Prioridad Estratégica**: Iniciativa de alta visibilidad validando IA para infraestructuras críticas nacionales.
 
 - **Optimización de Gemelos Digitales (ePROA - Eólica Offshore)**:
   - **Responsabilidad Arquitectónica**: Lideró el desarrollo de Gemelos Digitales basados en modelos subrogados para optimizar el rendimiento de plataformas eólicas marinas, integrando modelos basados en física con Deep Learning.
@@ -55,16 +60,16 @@ Director de IA e Ingeniero Industrial con más de 10 años de liderazgo en inici
 - **Descubrimiento de Materiales y Optimización de Aceleradores de Partículas (LiOn-HD y DONES-FLUX)**:
   - **Liderazgo en Innovación**: Dirigiendo la aplicación de IA Generativa y Redes Neuronales Informadas por la Física (PiNNs) para acelerar el descubrimiento de baterías de ion-litio y optimizar los aceleradores de partículas IFMIF-DONES.
   - **Impacto Estratégico**: Logró una **velocidad de simulación 100x superior** en comparación con métodos numéricos tradicionales de elementos finitos/CFD, reduciendo drásticamente los ciclos de I+D mientras se mantiene la consistencia física y el rigor científico.
-  - **Presupuesto**: **389K€** (44% del portafolio, programa DLSM), demostrando escala y confianza de financiación EU/Nacional.
+  - **Confianza EU/Nacional**: Componente clave del programa DLSM, demostrando capacidad para liderar consorcios de deep-tech.
   - **Profundidad Técnica**: Cerró la brecha entre física computacional y machine learning, asegurando que los modelos respetan leyes de conservación y condiciones de contorno.
 
 ---
 
-## Liderazgo de División y Gobernanza Financiera
+## Liderazgo de División y Autoridad Técnica
 
-- **Gestión de Portafolio Anual**: **10-12M€** a través de programas de I+D de la UE (EDF, Horizon Europe, Digital Europe), contratos de Defensa Nacional (Ministerio de Defensa, Armada) y alianzas industriales (Energía, Infraestructura).
+- **Estrategia de Hoja de Ruta I+D**: Definición y ejecución de hojas de ruta tecnológicas a largo plazo a través de programas de I+D de la UE (EDF, Horizon Europe), contratos de Defensa Nacional (Ministerio de Defensa, Armada) y alianzas industriales.
 - **Liderazgo de Equipo**: Gestión directa de **más de 25 profesionales** (14 especialistas en IA/ML, 11 ingenieros de I+D), fomentando una cultura de excelencia en Deep Tech y experiencia transversal de dominios.
-- **Programas Concurrentes**: Supervisión de **más de 15 proyectos estratégicos** en paralelo, abarcando los sectores de Defensa, Energía, Materiales y Aeroespacial.
+- **Programas Concurrentes**: Supervisión de **más de 15 proyectos estratégicos** en paralelo, asegurando coherencia técnica y entrega en los sectores de Defensa, Energía, Materiales y Aeroespacial.
 - **Adquisición de Financiación**: Líder técnico para la definición de propuestas competitivas, responsabilidad arquitectónica durante la ejecución y autoridad técnica en revisiones y auditorías.
 
 ---

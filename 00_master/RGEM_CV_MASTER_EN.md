@@ -4,12 +4,12 @@
 📍 Madrid, Spain | ✉️ robertogemartin@hi-iberia.es | 🔗 [LinkedIn](https://www.linkedin.com/in/robertogomezespinosamartin/)
 
 ## Executive Profile
-Strategic AI Director and Industrial Engineer with 10+ years of leadership in high-stakes R&D initiatives for **Defence, Energy, and Advanced Materials**. Specialized in orchestrating the transition from research to operational deployment (**TRL 3 to TRL 7-9**). Expert in leveraging Deep Learning, Digital Twins, and Scientific Computing (PiNNs/NOs) to solve mission-critical challenges. Proven track record of delivering technical sovereignty for the **Spanish Ministry of Defence, Spanish Navy, and Red Eléctrica**, managing a total division portfolio of **€10-12M** annually and leading multidisciplinary teams of **25+ engineers and researchers** across **15+ concurrent strategic programs**.
+Strategic AI Director and Industrial Engineer with 10+ years of leadership in high-stakes R&D initiatives for **Defence, Energy, and Advanced Materials**. Specialized in orchestrating the transition from research to operational deployment (**TRL 3 to TRL 7-9**). Expert in leveraging Deep Learning, Digital Twins, and Scientific Computing (PiNNs/NOs) to solve mission-critical challenges. Proven track record of delivering technical sovereignty for the **Spanish Ministry of Defence, Spanish Navy, and Red Eléctrica**, leading multidisciplinary teams of **25+ engineers and researchers** across **15+ concurrent strategic programs**.
 
 ---
 
 ## Strategic Expertise
-- **Executive Leadership**: Division P&L ownership, R&D roadmap strategy, and multi-institutional stakeholder management (MoD, Navy, Energy regulators).
+- **Executive Leadership**: **R&D Roadmap Strategy** definition, technical sovereignty assurance, and multi-institutional stakeholder management (MoD, Navy, Energy regulators).
 - **Deep Tech Architecture**: Design authority for IMINT systems, predictive maintenance (PdM) frameworks, and surrogate modeling in mission-critical environments.
 - **Scientific AI**: Pioneering GANs and Physics-Informed Neural Networks (PiNNs) for materials discovery and grid stabilization.
 - **Defence & Security**: Proven expertise in NATO/STANAG compliance, ENS security frameworks, and automatic detection of threats via satellite.
@@ -29,8 +29,13 @@ Strategic AI Director and Industrial Engineer with 10+ years of leadership in hi
   - **Architecture Ownership**: Directed the design and scaling of automated vessel and critical infrastructure detection systems using multi-source satellite data fusion (Optical/SAR).
   - **Strategic Impact**: Transformed national surveillance capabilities, evolving the system from pilot (TRL 4) to operational deployment (TRL 7+), enabling autonomous threat detection over vast maritime and polar domains.
   - **Decision Authority**: Made critical trade-offs between model accuracy and robustness under adversarial conditions, ensuring explainability for defence analysts and compliance with ENS security standards.
-  - **Budget & Scale**: **€196K** (22% of portfolio), multi-year program with successive extensions indicating institutional trust.
-  
+  - **Institutional Trust**: Multi-year program with successive extensions, cementing long-term strategic partnership.
+
+- **Generative AI for Wargaming & C2 (BELLONA - Armed Forces)**:
+  - **Innovation Strategy**: Leading the definition of decision-support systems based on Large Language Models (LLMs) and autonomous agents for Course of Action (COA) generation.
+  - **Operational Value**: Enhancing Command & Control (C2) capabilities through automated scenario generation and adversarial wargaming (LVC), reducing cognitive load in high-stress decision environments.
+  - **Status**: Advancing from research validation to tactical pilot (TRL 4-6).
+
 - **Predictive Maintenance & Fleet Readiness (MAPRE - Spanish Navy)**:
   - **Architecture Ownership**: Architected the predictive maintenance (PdM) framework for the Spanish Navy fleet, integrating IoT sensor data, Digital Twins, and AI-driven failure forecasting.
   - **Strategic Impact**: Maximized vessel operational readiness and optimized logistics of high-value spare parts. Shifted maintenance posture from reactive to predictive, directly impacting fleet availability rates.
@@ -43,7 +48,7 @@ Strategic AI Director and Industrial Engineer with 10+ years of leadership in hi
   - **Innovation Leadership**: Spearheaded the first use of Deep Reinforcement Learning (DRL) for autonomous control and stabilization of the national power grid, a safety-critical system with zero-tolerance for failure.
   - **Strategic Impact**: Established a benchmark for autonomous agent viability in high-stakes critical infrastructure. Demonstrated the safety and efficiency of AI-driven grid frequency stabilization and economic dispatch optimization.
   - **Decision Authority**: Balanced innovation ambition with operational risk, implementing rigorous testing and validation protocols to meet regulatory and safety requirements.
-  - **Budget**: **€289K** (33% of portfolio), highlighting strategic priority.
+  - **Strategic Priority**: High-visibility initiative validating AI for critical national infrastructure.
 
 - **Digital Twin Optimization (ePROA - Offshore Wind)**:
   - **Architecture Ownership**: Led the development of surrogate-model-based Digital Twins to optimize offshore wind platform performance, integrating physics-based models with Deep Learning.
@@ -54,17 +59,17 @@ Strategic AI Director and Industrial Engineer with 10+ years of leadership in hi
 
 - **Materials Discovery & Particle Accelerator Optimization (LiOn-HD & DONES-FLUX)**:
   - **Innovation Leadership**: Directing the application of Generative AI and Physics-Informed Neural Networks (PiNNs) to accelerate Lithium-ion battery discovery and optimize IFMIF-DONES particle accelerators.
-  - **Strategic Impact**: Achieved **100x simulation speedup**compared to traditional finite-element/CFD solvers, drastically reducing R&D cycles while maintaining physical consistency and scientific rigor.
-  - **Budget**: **€389K** (44% of portfolio, DLSM program), demonstrating scale and EU/National funding trust.
+  - **Strategic Impact**: Achieved **100x simulation speedup** compared to traditional finite-element/CFD solvers, drastically reducing R&D cycles while maintaining physical consistency and scientific rigor.
+  - **EU/National Trust**: Key component of the DLSM program, demonstrating capacity to lead deep-tech consortia.
   - **Technical Depth**: Bridged the gap between computational physics and machine learning, ensuring models respect conservation laws and boundary conditions.
 
 ---
 
-## Division Leadership & Financial Stewardship
+## Division Leadership & Technical Authority
 
-- **Annual Portfolio Management**: **€10-12M** across EU R&D programs (EDF, Horizon Europe, Digital Europe), National Defence contracts (MoD, Navy), and Industrial partnerships (Energy, Infrastructure).
+- **R&D Roadmap Strategy**: Definition and execution of long-term technology roadmaps across EU R&D programs (EDF, Horizon Europe), National Defence contracts (MoD, Navy), and Industrial partnerships.
 - **Team Leadership**: Direct management of **25+ professionals** (14 AI/ML specialists, 11 R&D engineers), fostering a culture of Deep Tech excellence and cross-domain expertise.
-- **Concurrent Programmes**: Oversight of **15+ strategic projects** in parallel, spanning Defence, Energy, Materials, and Aerospace sectors.
+- **Concurrent Programmes**: Oversight of **15+ strategic projects** in parallel, ensuring technical coherence and delivery across Defence, Energy, Materials, and Aerospace sectors.
 - **Funding Acquisition**: Technical lead for competitive proposal definition, architecture ownership during execution, and technical authority in reviews and audits.
 
 ---

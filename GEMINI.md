@@ -59,6 +59,14 @@
   - `Profile/Estudios.md`: Ranked education and certifications with guidance for Executive vs Technical usage.
 - Updated `CLAUDE.md` to mandate usage of these files for future CV updates.
 
+### 2026-01-15: CV v1.2 Optimization
+- **Financial Clean-up**: Removed aggregate portfolio figures ("€10-12M") and "P&L" references from all CVs to align with "Technical Sovereignity" focus.
+- **New Project Integration**: Added **BELLONA** (Generative AI for Wargaming) to Defence section.
+- **Generated v1.2 Versions**:
+  - `RGEM_CV_EXEC_AI_EN/ES_v1.2.md`: Focus on Risk Management & TRL transition.
+  - `RGEM_CV_TECH_AI_EN/ES_v1.2.md`: Focus on Architecture, PiNNs (DONES) & Generative AI.
+- Synced all changes to GitHub.
+
 ### Current Structure
 ```
 CV/
