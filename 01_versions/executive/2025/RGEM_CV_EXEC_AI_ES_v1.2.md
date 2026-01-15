@@ -50,7 +50,7 @@ Director de IA e Ingeniero Industrial con más de 10 años de liderazgo en inici
 ---
 
 ## Publicaciones
-*Publicaciones seleccionadas en inteligencia marítima y satelital impulsada por IA para defensa y seguridad (DESEI+D 2023), enfocadas en impacto operativo y soberanía técnica.*
+*Coautor de más de 20 comunicaciones técnicas y publicaciones sobre IA aplicada a defensa, energía y sistemas complejos (DESEI+D, programas de I+D de la UE), centradas en el impacto operativo y la soberanía técnica.*
 
 ---
 

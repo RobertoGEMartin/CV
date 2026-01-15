@@ -50,7 +50,7 @@ Strategic AI Director and Industrial Engineer with 10+ years of leadership in hi
 ---
 
 ## Publications
-*Selected publications in AI-driven maritime and satellite intelligence for defence and security (DESEI+D 2023), focusing on operational impact and technical sovereignty.*
+*Co-author of 20+ technical communications and publications on applied AI for defence, energy and complex systems (DESEI+D, EU R&D programs), focusing on operational impact and technical sovereignty.*
 
 ---
 

@@ -95,19 +95,20 @@ Strategic AI Director and Industrial Engineer with 10+ years of leadership in hi
 
 ## Publications & Scientific Output
 
-### Core Research: Applied AI in Defence & Security
-*Selected contributions to the DESEI+D (Defence and Security Innovation) ecosystem.*
+### Core Research: Applied AI in Defence, Energy & Complex Systems
+*Selected contributions to the DESEI+D (Defence and Security Innovation) ecosystem and strategic R&D programs. Co-author in all entries.*
 
-* **Implementación de un sistema basado en Deep Learning para la detección de *dark vessels* en imagen satelital a través de la predicción de ruta** (Díez et al., 2023)
-  * *Context*: **SEDA / MoD**. Operational impact: Detection of non-cooperative vessels.
-* **Implementación de un modelo de Deep Learning para la detección de abarloamientos en imágenes satelitales en SEDA** (Naranjo et al., 2023)
-  * *Context*: **SEDA / MoD**. Operational impact: Identification of illicit maritime activities.
-* **Revisión de las perspectivas actuales y tendencias emergentes en la detección de estelas de barcos** (Ortiz et al., 2023)
-  * *Context*: **Maritime Surveillance**. Strategic review of wake detection technologies.
-* **Revisión del estado del arte de algoritmos de IA sobre imágenes satelitales para la planificación de rutas de navegación en zonas polares** (Rodríguez et al., 2023)
-  * *Context*: **Polar Navigation**. AI for route optimization in extreme environments.
-* **Automatización y gestión de flujos de trabajo en una arquitectura basada en microservicios integrada en SIL-ATAVIA** (Moreu et al., 2023)
-  * *Context*: **SIL-ATAVIA**. Production-grade AI architectures.
+* **Implementación de un sistema basado en Deep Learning para la detección de *dark vessels* mediante predicción de ruta** (Díez et al., 2023). Context: **SEDA / MoD**.
+* **Implementación de un modelo de Deep Learning para la detección de abarloamientos en imágenes satelitales** (Naranjo et al., 2023). Context: **SEDA / MoD**.
+* **Aplicación de IA al mantenimiento predictivo de sistemas navales** (Varios, 2023). Context: **MAPRE / Spanish Navy**.
+* **Uso de agentes DRL para estabilización de infraestructuras energéticas críticas** (Varios, 2022–2024). Context: **ENIGMA / Red Eléctrica**.
+* **IA generativa y PiNNs para optimización de aceleradores de partículas** (Varios, 2023–2024). Context: **DONES-FLUX / EU**.
+* **Modelos subrogados con Deep Learning para gemelos digitales energéticos** (Varios, 2022–2024). Context: **ePROA**.
+* **Automatización y gestión de flujos de trabajo IA en arquitectura de microservicios** (Moreu et al., 2023). Context: **SIL-ATAVIA**.
+* **Revisión de tendencias emergentes en detección de estelas de barcos mediante IA** (Ortiz et al., 2023). Context: **SEDA**.
+* **Revisión del estado del arte de algoritmos de IA sobre imágenes satelitales para planificación de rutas polares** (Rodríguez et al., 2023). Context: **SEDA**.
+* **Arquitecturas IA para toma de decisiones y COA generation** (Varios, 2024–2025). Context: **BELLONA**.
+* **IA para descubrimiento de materiales energéticos** (Varios, 2020–2024). Context: **LiON-HD**.
 
 ### Historical Technical Background (Telecom & Systems)
 * *Optical domain multipath implementation for a UMTS/HSDPA traffic loading platform* (COST 2100, 2007)

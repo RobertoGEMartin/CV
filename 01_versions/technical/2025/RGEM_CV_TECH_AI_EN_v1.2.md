@@ -51,11 +51,13 @@
 ---
 
 ## Selected Publications (Applied AI & Defence)
-* **Implementación de un sistema basado en Deep Learning para la detección de *dark vessels* en imagen satelital a través de la predicción de ruta** (Díez et al., 2023) - *Core Reference*
-* **Implementación de un modelo de Deep Learning para la detección de abarloamientos en imágenes satelitales en SEDA** (Naranjo et al., 2023) - *Core Reference*
-* **Revisión de las perspectivas actuales y tendencias emergentes en la detección de estelas de barcos** (Ortiz et al., 2023)
-* **Revisión del estado del arte de algoritmos de IA sobre imágenes satelitales para la planificación de rutas de navegación en zonas polares** (Rodríguez et al., 2023)
-* **Automatización y gestión de flujos de trabajo en una arquitectura basada en microservicios integrada en SIL-ATAVIA** (Moreu et al., 2023)
+- **Implementación de un sistema basado en Deep Learning para la detección de *dark vessels* mediante predicción de ruta** (Díez et al., 2023). **SEDA / MoD**.
+- **Aplicación de IA al mantenimiento predictivo de sistemas navales** (Varios, 2023). **MAPRE / Spanish Navy**.
+- **Uso de agentes DRL para estabilización de infraestructuras energéticas críticas** (Varios, 2022–2024). **ENIGMA / Red Eléctrica**.
+- **IA generativa y PiNNs para optimización de aceleradores de partículas** (Varios, 2023–2024). **DONES-FLUX / EU**.
+- **Automatización y gestión de flujos de trabajo IA en arquitectura de microservicios** (Moreu et al., 2023). **SIL-ATAVIA**.
+
+*Co-author of 20+ publications and communications in strategic R&D ecosystems.*
 
 ---
 
