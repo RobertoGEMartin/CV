@@ -39,6 +39,19 @@
   - Focused on technical-to-operational translation
 - Pushed v1.1 refinement to `main` branch.
 
+### 2026-01-15: Integration of Education & Publications
+- Integrated structured data from `Profile/Estudios.md` and `Profile/publicaciones.md`.
+- **Master CVs Update**:
+  - Replaced generic education with full chronological list (UPM, Stanford, Deeplearning.ai, etc.).
+  - Added full list of publications categorized by "Applied AI & Defence" vs "Historical Technical".
+- **Executive CVs Update**:
+  - Filtered education to Degree + Top 3 Strategic Certifications.
+  - Summarized publications to a single high-impact statement focusing on DESEI+D and sovereignty.
+- **Technical CVs Update**:
+  - Included full certification list emphasizing technical breadth (Udacity, Microsoft, etc.).
+  - Selected "Top 5" publications relevant to Applied AI & Defence as per strategic guidelines.
+- Pushed changes to `main` branch.
+
 ### Current Structure
 ```
 CV/

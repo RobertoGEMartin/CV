@@ -69,16 +69,41 @@ Strategic AI Director and Industrial Engineer with 10+ years of leadership in hi
 
 ---
 
+---
+
 ## Education & Certifications
-- **M.Sc. Industrial Engineering** | Universidad Politécnica de Madrid (UPM) | *1996 - 2001*
-- **Executive AI Specializations**:
-  - **Large Language Models** (Databricks, 2023)
-  - **MLOps Engineering for Production** (Deeplearning.ai, 2022)
-  - **Generative Adversarial Networks (GANs)** (Deeplearning.ai)
-  - **Deep Reinforcement Learning** (University of Alberta)
+
+### Academic Background
+- **Bachelor of Engineering in Industrial Automation** | Universidad Politécnica de Madrid (UPM) | *1996 - 2001*
+  - *Core foundation in industrial systems, control theory, and engineering strategy.*
+
+### Specialized Certification Program
+1. **Deep Learning Specialization** (deeplearning.ai) - *Advanced proficiency in neural networks and architecture design.*
+2. **Machine Learning** (Stanford Online University) - *Rigorous academic foundation in ML algorithms.*
+3. **Professional Program in Data Science** (Microsoft) - *Applied data science at enterprise scale.*
+4. **Machine Learning Specialization** (University of Washington) - *Comprehensive coverage of regression, classification, and clustering.*
+5. **Big Data Specialization** (University of California San Diego) - *Scalable data systems and architecture.*
+6. **Self-Driving Car Engineer Nanodegree** (Udacity) - *Applied computer vision and sensor fusion.*
+7. **Deep Learning Nanodegree** (Udacity) - *Practical implementation of deep neural networks.*
 
 ---
 
-## Thought Leadership & Publications
-- **Research Impact**: Author of multiple papers for **DESEI+D** (Defence and Security Innovation) and other high-tech forums.
-- **Focus Areas**: Deep Learning for satellite surveillance, Dark Vessel detection, and Polar Route optimization using Scientific AI.
+## Publications & Scientific Output
+
+### Core Research: Applied AI in Defence & Security
+*Selected contributions to the DESEI+D (Defence and Security Innovation) ecosystem.*
+
+* **Implementación de un sistema basado en Deep Learning para la detección de *dark vessels* en imagen satelital a través de la predicción de ruta** (Díez et al., 2023)
+  * *Context*: **SEDA / MoD**. Operational impact: Detection of non-cooperative vessels.
+* **Implementación de un modelo de Deep Learning para la detección de abarloamientos en imágenes satelitales en SEDA** (Naranjo et al., 2023)
+  * *Context*: **SEDA / MoD**. Operational impact: Identification of illicit maritime activities.
+* **Revisión de las perspectivas actuales y tendencias emergentes en la detección de estelas de barcos** (Ortiz et al., 2023)
+  * *Context*: **Maritime Surveillance**. Strategic review of wake detection technologies.
+* **Revisión del estado del arte de algoritmos de IA sobre imágenes satelitales para la planificación de rutas de navegación en zonas polares** (Rodríguez et al., 2023)
+  * *Context*: **Polar Navigation**. AI for route optimization in extreme environments.
+* **Automatización y gestión de flujos de trabajo en una arquitectura basada en microservicios integrada en SIL-ATAVIA** (Moreu et al., 2023)
+  * *Context*: **SIL-ATAVIA**. Production-grade AI architectures.
+
+### Historical Technical Background (Telecom & Systems)
+* *Optical domain multipath implementation for a UMTS/HSDPA traffic loading platform* (COST 2100, 2007)
+* *MIMatrix, a MIMO radio channel physical emulator* (COST 273, 2005)

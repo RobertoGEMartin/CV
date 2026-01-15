@@ -59,13 +59,16 @@ Strategic Technology Director with 10+ years of experience driving AI innovation
 
 ---
 
+---
+
 ## Education
-- **M.Sc. Industrial Engineering** | Universidad Politécnica de Madrid (UPM)
-- **Executive AI Strategy Certifications** (Databricks, Deeplearning.ai)
+- **Bachelor of Engineering in Industrial Automation** | Universidad Politécnica de Madrid (UPM)
+- **Specialized Executive Certifications**:
+  - **Deep Learning Specialization** (deeplearning.ai)
+  - **Machine Learning** (Stanford Online University)
+  - **Professional Program in Data Science** (Microsoft)
 
 ---
 
-## Key Differentiators
-- **Institutional Continuity**: Long-term strategic relationships with defence and critical-infrastructure clients, evidenced by multiple program renewals (e.g., SEDA → MADS).
-- **Mission-Critical Experience**: Responsibility over safety-critical and security-critical systems with demonstrated ability to navigate ENS, NATO/STANAG compliance.
-- **Decision-Level Impact**: Proven track record making high-stakes trade-offs between accuracy vs robustness, innovation vs deployability, research ambition vs operational risk.
+## Publications
+*Selected publications in AI-driven maritime and satellite intelligence for defence and security (DESEI+D 2023), focusing on operational impact and technical sovereignty.*

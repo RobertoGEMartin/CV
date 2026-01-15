@@ -60,17 +60,25 @@ Director Técnico y Arquitecto Jefe con más de una década de experiencia en la
 
 ---
 
-## Certificaciones y Aprendizaje Técnico Continuo
-- **MLOps Engineering for Production** (Deeplearning.ai)
-- **Generative Adversarial Networks Specialization** (Deeplearning.ai)
-- **Reinforcement Learning** (University of Alberta)
-- **Large Language Models & Ecosistema Databricks** (Databricks, 2023)
+---
+
+## Publicaciones Seleccionadas (IA Aplicada y Defensa)
+* **Implementación de un sistema basado en Deep Learning para la detección de *dark vessels* en imagen satelital a través de la predicción de ruta** (Díez et al., 2023) - *Referencia Core*
+* **Implementación de un modelo de Deep Learning para la detección de abarloamientos en imágenes satelitales en SEDA** (Naranjo et al., 2023) - *Referencia Core*
+* **Revisión de las perspectivas actuales y tendencias emergentes en la detección de estelas de barcos** (Ortiz et al., 2023)
+* **Revisión del estado del arte de algoritmos de IA sobre imágenes satelitales para la planificación de rutas de navegación en zonas polares** (Rodríguez et al., 2023)
+* **Automatización y gestión de flujos de trabajo en una arquitectura basada en microservicios integrada en SIL-ATAVIA** (Moreu et al., 2023)
 
 ---
 
-## Publicaciones Seleccionadas
-- **Vigilancia Satelital**: Artículos sobre detección de "Dark Vessels" y navegación polar automatizada en **DESEI+D**.
-- **Enfoque**: Aplicabilidad en el mundo real de la IA en entornos de alta responsabilidad, cerrando la brecha entre investigación y despliegue operativo.
+## Educación y Certificaciones
+- **Ingeniería en Automatización Industrial** | UPM (*1996 - 2001*)
+- **Especialización en Deep Learning** (deeplearning.ai)
+- **Machine Learning** (Stanford Online University)
+- **Certificación Profesional en Ciencia de Datos** (Microsoft)
+- **Especialización en Machine Learning** (University of Washington)
+- **Especialización en Big Data** (UC San Diego)
+- **Nanodegrees**: Self-Driving Car Engineer & Deep Learning (Udacity)
 
 ---
 

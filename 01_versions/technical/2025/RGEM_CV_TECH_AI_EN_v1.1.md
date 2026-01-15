@@ -60,17 +60,25 @@ Hands-on Technical Director and Chief Architect with over a decade of experience
 
 ---
 
-## Certifications & Technical Continuous Learning
-- **MLOps Engineering for Production** (Deeplearning.ai)
-- **Generative Adversarial Networks Specialization** (Deeplearning.ai)
-- **Reinforcement Learning** (University of Alberta)
-- **Large Language Models & Databricks Ecosystem** (Databricks, 2023)
+---
+
+## Selected Publications (Applied AI & Defence)
+* **Implementación de un sistema basado en Deep Learning para la detección de *dark vessels* en imagen satelital a través de la predicción de ruta** (Díez et al., 2023) - *Core Reference*
+* **Implementación de un modelo de Deep Learning para la detección de abarloamientos en imágenes satelitales en SEDA** (Naranjo et al., 2023) - *Core Reference*
+* **Revisión de las perspectivas actuales y tendencias emergentes en la detección de estelas de barcos** (Ortiz et al., 2023)
+* **Revisión del estado del arte de algoritmos de IA sobre imágenes satelitales para la planificación de rutas de navegación en zonas polares** (Rodríguez et al., 2023)
+* **Automatización y gestión de flujos de trabajo en una arquitectura basada en microservicios integrada en SIL-ATAVIA** (Moreu et al., 2023)
 
 ---
 
-## Selected Publications
-- **Satellite Surveillance**: Papers on "Dark Vessel" detection and automated polar navigation at **DESEI+D**.
-- **Focus**: Real-world applicability of AI in high-consequence environments, bridging research and operational deployment.
+## Education & Certifications
+- **Bachelor of Engineering in Industrial Automation** | UPM (*1996 - 2001*)
+- **Deep Learning Specialization** (deeplearning.ai)
+- **Machine Learning** (Stanford Online University)
+- **Professional Program in Data Science** (Microsoft)
+- **Machine Learning Specialization** (University of Washington)
+- **Big Data Specialization** (UC San Diego)
+- **Nanodegrees**: Self-Driving Car Engineer & Deep Learning (Udacity)
 
 ---
 

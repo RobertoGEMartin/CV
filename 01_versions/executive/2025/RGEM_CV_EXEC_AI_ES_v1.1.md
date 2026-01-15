@@ -59,9 +59,19 @@ Director Tecnológico estratégico con más de 10 años de experiencia impulsand
 
 ---
 
+---
+
 ## Educación
-- **Ingeniero Superior Industrial** | Universidad Politécnica de Madrid (UPM)
-- **Certificaciones de Estrategia Ejecutiva en IA** (Databricks, Deeplearning.ai)
+- **Ingeniería en Automatización Industrial** | Universidad Politécnica de Madrid (UPM)
+- **Certificaciones Ejecutivas Especializadas**:
+  - **Especialización en Deep Learning** (deeplearning.ai)
+  - **Machine Learning** (Stanford Online University)
+  - **Certificación Profesional en Ciencia de Datos** (Microsoft)
+
+---
+
+## Publicaciones
+*Publicaciones seleccionadas en inteligencia marítima y satelital impulsada por IA para defensa y seguridad (DESEI+D 2023), enfocadas en impacto operativo y soberanía técnica.*
 
 ---
 
