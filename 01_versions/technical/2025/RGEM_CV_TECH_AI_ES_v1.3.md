@@ -80,8 +80,8 @@ Director de IA e Ingeniero Industrial con más de 10 años de dirección en inic
   - *Grado en Ingeniería. Base sólida en sistemas industriales, teoría de control y estrategia de ingeniería.*
 
 ### Especializaciones y Certificaciones Profesionales
-1. **Reinforcement Learning Specialization** (University of Alberta) - *Estategias avanzadas de toma de decisiones y control autónomo.*
-2. **Generative AI with Large Language Models** (DeepLearning.ai / AWS) - *Despliegue y fine-tuning de LLMs para aplicaciones estratégicas.*
+1. **Reinforcement Learning Specialization** (University of Alberta) - *Estategias avanzadas de toma de decisiones y control autónomo (Key for ENIGMA).*
+2. **Generative AI with Large Language Models** (DeepLearning.ai / AWS) - *Despliegue y fine-tuning de LLMs para aplicaciones estratégicas (Key for BELLONA).*
 3. **Generative Adversarial Networks (GANs) Specialization** (DeepLearning.ai) - *Modelos generativos avanzados para simulación y diseño de materiales.*
 4. **Especialización en Deep Learning** (deeplearning.ai) - *Dominio avanzado de redes neuronales y diseño de arquitecturas.*
 5. **Machine Learning** (Stanford Online University) - *Fundamentos académicos rigurosos en algoritmos de ML.*

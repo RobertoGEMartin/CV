@@ -72,6 +72,25 @@
   - Improved description of maritime and polar domain monitoring.
 - Synced all changes to GitHub.
 
+### 2026-01-16: CV Ecosystem Update v1.3
+- **Master CVs Refinement**:
+  - Removed gerunds in favor of active verbs (ES/EN) to align with senior executive tone.
+  - Standardized "Strategic Ownership" language across SEDA, BELLONA, MAPRE, ENIGMA.
+- **New Versions (v1.3)**:
+  - Generated `RGEM_CV_EXEC_AI_EN/ES_v1.3.md`: Streamlined for executive impact, removed financial portfolio aggregates, focused on decision authority.
+  - Generated `RGEM_CV_TECH_AI_EN/ES_v1.3.md`: Full technical depth derived from the refined Master.
+- **Constraints Enforced**: Verified absence of P&L and aggregate budget figures in v1.3.
+
+### 2026-01-16: Strategic Focus Adjustment
+- **Refinement**: Removed "ePROA" (Offshore Wind Digital Twins) from Master and Technical CVs.
+- **MAPRE Enhancement**: Expanded the **MAPRE** section (Navy Predictive Maintenance) with "Institutional Trust" (Confianza Institucional) and deeper technical detail to replace the strategic weight of the removed project.
+- **Goal**: Highlight MAPRE as a core sovereignty capability.
+
+### 2026-01-16: Certification Expansion
+- **Additions**: Added **Reinforcement Learning** (Alberta), **Generative AI with LLMs** (DeepLearning.ai), and **GANs** to all CVs.
+- **Strategic Alignment**: Directly supports credibility for **BELLONA** (LLMs) and **ENIGMA** (RL) project descriptions.
+- **Executive CVs**: Prioritized GenAI and RL over generic Data Science certifications.
+
 ### Current Structure
 ```
 CV/
